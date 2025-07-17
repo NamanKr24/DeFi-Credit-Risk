@@ -1,4 +1,4 @@
-# **Aave V2 Wallet Credit Scoring – Analysis Report**
+# **Analysis Report**
 
 ### **1. Objective**
 
