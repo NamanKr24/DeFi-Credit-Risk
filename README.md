@@ -1,4 +1,4 @@
-## **Aave V2 Wallet Credit Scoring**
+## **DeFi Transaction Credit Scoring**
 
 ### **Overview**
 
