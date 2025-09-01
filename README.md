@@ -16,15 +16,12 @@ The analysis involves processing historical trade data to derive daily metrics s
 
 The repository is structured according to the assignment instructions:
 
-├── Analysis.ipynb
-│
-├── outputs/
-│   ├── sentiment_behavior_summary.png
-│   └── volume_over_time_with_sentiment.png
-│
-├── ds_report.pdf
-│
-└── README.md
+ - Analysis.ipynb
+ - outputs/
+   - sentiment_behavior_summary.png
+   - volume_over_time_with_sentiment.png
+ - ds_report.pdf
+ - README.md
 
 
 ---
