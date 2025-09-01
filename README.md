@@ -21,6 +21,7 @@ The repository is structured according to the assignment instructions:
    - sentiment_behavior_summary.png
    - volume_over_time_with_sentiment.png
  - ds_report.pdf
+ - Instructions_Data-Science.pdf
  - README.md
 
 
