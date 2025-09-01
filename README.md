@@ -14,7 +14,7 @@ The analysis involves processing historical trade data to derive daily metrics s
 
 ### Directory Structure
 
-The repository is structured according to the assignment instructions:
+The repository contains all the files in the ds_namankumar directory which is structured according to the assignment instructions:
 
  - Analysis.ipynb
  - outputs/
@@ -22,7 +22,6 @@ The repository is structured according to the assignment instructions:
    - volume_over_time_with_sentiment.png
  - ds_report.pdf
  - Instructions Data Science.pdf
- - README.md
 
 
 ---
